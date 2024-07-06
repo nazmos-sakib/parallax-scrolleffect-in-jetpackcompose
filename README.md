@@ -1,3 +1,3 @@
 # parallax-scrolleffect-in-jetpackcompose
 
-![SS](app/src/main/res/raw/ss_gif.gif)
+<img src="app/src/main/res/raw/ss_gif.gif" height="600"/>
